@@ -1,1 +1,3 @@
-title, bgm_id, company,publish_date
+code," bgm_id"," title"," cover"," director",project," company"," publish_date"
+2022-01-01,354256,title,cover,director,project," company"," publish_date"
+2022-02-01,354257,title,cover,director,project," company"," publish_date"
