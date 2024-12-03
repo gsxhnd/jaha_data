@@ -1,3 +1,6 @@
-code,bgm_id,title,cover,director,project,company,publish_date
-2022-01-01,354256,title,cover,director,project,company,publish_date
-2022-02-01,354257,title,cover,director,project,company,publish_date
+code,bgm_id,title,director,project,company,publish_date
+2023-01-01,406423,スリーピース THE ANIMATION,太多秀太,ふじけん,ピンクパイナップル,2023-01-27
+2023-02-01,406869,ヤリ上がり 〜スレ違いのイジワル♥〜,,びまら座,nur,2023-01-27
+2023-02-02,406869,ヤリ上がり 〜みこすり半の謹親♥〜,,びまら座,nur,2023-05-26
+2023-03-01,406868,おとぎばなしの鬼ごっこ 赤ずきんとケダモノたち,彩野国男,まんぴーす,魔人,2023-01-27
+2023-03-02,406868,おとぎばなしの鬼ごっこ アリスの壊れた世界,彩野国男,まんぴーす,魔人,2023-03-31
